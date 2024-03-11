@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@structures/*": ["structures/*"],
+      "@contentful/*": ["contentful/*"],
+      "@layouts/*": ["layouts/*"],
+      "@styles/*": ["styles/*"],
+      "@store/*": ["store/*"],
+      "@sections/*": ["sections/*"],
+      "@routes/*": ["routes/*"],
+      "@pagesComponents/*": ["pagesComponents/*"],
+      "@ams/*": ["pagesComponents/app/ams/*"],
+      "@pages-app-ams/*": ["pagesComponents/app/ams/*"],
+      "@app-ams/*": ["pages/app/ams/*"],
+      "@assets/*": ["assets/*"],
+      "@values/*": ["values/*"]
+    }
+  }
+}
